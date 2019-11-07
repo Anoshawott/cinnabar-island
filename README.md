@@ -1,7 +1,7 @@
 # Investigating Measures of Health and Economic Freedom as Determinants in Socioeconomic Performance of the G20 Nations
 ## Anosh.S, Kshitij.M, Alfred.Z, Sebastian.S
 
-While research was a primary focus for this project it was strongly data oriented. Datasets had undergone rigourous data cleaning and analysis utilising matplotlib and seaborn libraries. Moreover, inquiring into these research aspects required an analysis of the relevant datasets from different independent sources they are detailed as follows. 
+While research was a primary focus for this project it was strongly data oriented. Datasets had undergone rigourous data cleaning and analysis utilised matplotlib and seaborn libraries. Moreover, inquiring into these research aspects required an analysis of the relevant datasets from different independent sources they are detailed as follows. 
 
 ## Life Expectancy & Other Health Indicators
 ### Data Source Analysis
